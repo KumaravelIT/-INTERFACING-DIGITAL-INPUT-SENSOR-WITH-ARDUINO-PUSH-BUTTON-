@@ -57,7 +57,7 @@ FIGURE-02
 
 
 FIGURE -03
-
+![image](https://github.com/KumaravelIT/-INTERFACING-DIGITAL-INPUT-SENSOR-WITH-ARDUINO-PUSH-BUTTON-/blob/main/Screenshot%202024-02-16%20155831.png)
 
 
 
